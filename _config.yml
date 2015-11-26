@@ -1,7 +1,7 @@
 name: CTFO
 favicon: null
-layout_spectrum: 0.2111234050244093
-typography_spectrum: 0.05821605073288083
+layout_spectrum: 0.3102
+typography_spectrum: 0.20501
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.2839446587022394
+    - '#000000'
+    - '#62ff00'
+    - '#774f1b'
+    - '#e700fc'
+    - '#dec300'
+  brandStrength: 0.4375
   lightness: 0.6325676117558032
   saturation: 0.7340448570903391
   rhythmicContrast: 0.358434846624732
